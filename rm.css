@@ -1,6 +1,15 @@
 .cold-coffee {
   margin-bottom: 20px;
 }
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
 
 .cold-coffee img {
   width: 200px;
