@@ -1,0 +1,28 @@
+.spicy-starter {
+  margin-bottom: 20px;
+}
+
+.spicy-starter img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.spicy-starter h3 {
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.spicy-starter .description {
+  margin-bottom: 5px;
+  color: #777;
+}
+
+.spicy-starter .price,
+.spicy-starter .quantity {
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
